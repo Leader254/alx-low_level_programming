@@ -1,9 +1,5 @@
 #include <stdio.h>
-
-
-
 /**
- *
  *     main - displays text
  *     @void: void
  *     Description: displays text  

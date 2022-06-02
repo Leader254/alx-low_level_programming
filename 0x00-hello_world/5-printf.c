@@ -4,12 +4,11 @@
 
 /**
  *
- *  * main - displays text
- *
- *   * @void: void
- *     * Description: displays text
- *      * Return = 0
- *       */
+ *     main - displays text
+ *     @void: void
+ *     Description: displays text  
+ *     Return = 0
+*/
 
 int	main(void)
 {

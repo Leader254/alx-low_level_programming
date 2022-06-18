@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * concatenates two strings
- * input parameter string
- * input parameter string
- * times to iterations
+ * _strncat - concatenates two strings
+ * @dest: input parameter string
+ * @src: input parameter string
+ * @n: times to iterations
  *
  * Return: dest
  */

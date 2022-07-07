@@ -50,8 +50,8 @@ int op_div(int a, int b)
 
 /**
  * op_mod - calculates the remainder of the division of two integers
- * @:a first intger
- * @:b second intger
+ * @:a first integer
+ * @:b second integer
  *
  * Return: remainder of a divided b
  */
